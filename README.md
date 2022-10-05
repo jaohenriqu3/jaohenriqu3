@@ -1,16 +1,23 @@
-### Hi there 👋
+Eai beleza?! Eu sou o João Henrique 
 
-<!--
-**jaohenriqu3/jaohenriqu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho atualmente em meu própio e-commerce
+- 🌱 Estudante de sistemas para internet e focando em HTML,CSS Javascript e Python 
+- 💬 Contate-me 
 
-Here are some ideas to get you started:
+<center>  <div> 
+    <a href="https://github.com/jaohenriqu3">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaohenriqu3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaohenriqu3&layout=compact&langs_count=7&theme=dracula"/>
+    </div> </center> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <div> 
+        <div style="display: inline_block"> <br>  
+            <center> <img height= ""  width= "" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt=""> </center> 
+            <center> <img height= ""  width= "" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt=""> </center> 
+            <center> <img height= ""  width= "" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt=""> </center> 
+            <center> <img height= ""  width= "" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt=""> </center>   
+            <center> <img height= ""  width= "" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=""> </center>   
+            <center> <img height= ""  width= "" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt=""> </center>   
+    </div> 
+
+
