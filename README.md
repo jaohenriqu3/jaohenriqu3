@@ -19,5 +19,5 @@ Eai beleza?! Eu sou o João Henrique
  <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="ps"> 
 </div>  
     
-![Snake animation](https://github.com/jaohenriqu3)
+
 
