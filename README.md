@@ -10,8 +10,8 @@ Eai beleza?! Eu sou o João Henrique
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaohenriqu3&layout=compact&langs_count=7&theme=dracula"/>
     </div> </center> 
 
-      <div> 
-        <div style="display: inline_block"> <br>  
+     
+    <div style="display: inline_block"> <br>  
         <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt=""> </center> 
         <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt=""> </center> 
         <img align="center"height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt=""> </center> 
