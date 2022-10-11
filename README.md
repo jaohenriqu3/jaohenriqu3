@@ -1,6 +1,6 @@
 Eai beleza?! Eu sou o João Henrique 
 
-- 🔭 Trabalho atualmente em meu própio e-commerce
+- 🔭 Trabalho atualmente apenas em meu e-commerce: znsurfskate.com.br 
 - 🌱 Estudante de sistemas para internet e Desenvolvedor UX/UI em formação 
 - 💬 Contate-me: jhlucena2004@gmail.com
 
