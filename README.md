@@ -1,7 +1,7 @@
 Eai beleza?! Eu sou o João Henrique 
 
 - 🔭 Trabalho atualmente em meu própio e-commerce
-- 🌱 Estudante de sistemas para internet e estudo atualmente HTML,CSS, Javascript e Python 
+- 🌱 Estudante de sistemas para internet e Desenvolvedor UX/UI em formação 
 - 💬 Contate-me: jhlucena2004@gmail.com
 
 <center>  <div> 
