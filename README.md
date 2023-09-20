@@ -1,4 +1,3 @@
-Eai beleza?! Eu sou o João Henrique 
 
 - 🔭 Trabalho atualmente apenas em projetos freelancer e em meu própio e-commerce: znsurfskate.com.br 
 - 🌱 Estudante de Sistemas para Internet e direciono meus estudos para área de Produtos digitais e Desenvolvimento Web
