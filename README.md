@@ -1,6 +1,5 @@
 
-- 🔭 Trabalho atualmente apenas em projetos freelancer e em meu própio e-commerce: znsurfskate.com.br 
-- 🌱 Estudante de Sistemas para Internet e direciono meus estudos para área de Produtos digitais e Desenvolvimento Web
+Linkedin: https://www.linkedin.com/in/joão-henrique-m-de-lucena-1a834b207/
 - 💬 Contate-me: jhlucena2004@gmail.com
 
 <center>  <div> 
