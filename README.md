@@ -1,4 +1,4 @@
-## Hello World 
+## Hello World!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 - Linkedin: https://www.linkedin.com/in/joão-henrique-m-de-lucena-1a834b207/
 - 💬 Contate-me: jhlucena2004@gmail.com
 
