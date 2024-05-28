@@ -5,7 +5,6 @@ Olá, Me chamo João Henrique e minhas experiências profissionais começaram no
 ## Contacts: 
 <a href='https://www.linkedin.com/in/joão-henrique-m-de-lucena-1a834b207/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
 <a href = "mailto:jhlucena2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-- 💬 Contate-me: jhlucena2004@gmail.com
   
 
 <!-- <center>  <div> 
