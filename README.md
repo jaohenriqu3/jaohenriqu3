@@ -1,5 +1,5 @@
 ## Hello World!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-- Linkedin: https://www.linkedin.com/in/joão-henrique-m-de-lucena-1a834b207/
+<a href='https://www.linkedin.com/in/joão-henrique-m-de-lucena-1a834b207/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
 - 💬 Contate-me: jhlucena2004@gmail.com
 
 <center>  <div> 
