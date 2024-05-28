@@ -14,11 +14,12 @@
   <img  align="center" alt"javascript "height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  align="center" alt"typescript "height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img  align="center" alt"react "height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" /> 
+  <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" />
   <img align="center"height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma"> 
   <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="ps"> 
   <img align="center" height= "30"  width= "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wp"/>
-  <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" /> 
-  <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
+  <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />   
 </div>  
     
 
