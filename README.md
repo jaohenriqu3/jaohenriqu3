@@ -1,5 +1,7 @@
 ## Hello World!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+Olá, Me chamo João Henrique e minhas experiências profissionais começaram no ensino médio quando tive a oportunidade de participar dos torneios nacionais de robótica nos anos de 2019 e 2020, consequentemente tive meu primeiro contato com a programação e me aprofundei na área de design, marketing e tecnologia. Hoje sou estudante de Sistemas para Internet e estou muito satisfeito com meu curso. Lido muito bem com tarefas que envolvem comunicação e trabalho em equipe. Adoro buscar e aprender novas tecnologias e ampliar meus conhecimento, entre elas... Desenvolvimento Web, inovação, design, suporte de computadores e sistemas, marketing e engenharia de software. 
+
 ## Contacts: 
 <a href='https://www.linkedin.com/in/joão-henrique-m-de-lucena-1a834b207/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
 - 💬 Contate-me: jhlucena2004@gmail.com
