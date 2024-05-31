@@ -2,6 +2,8 @@
 
 Olá, Me chamo João Henrique e minhas experiências profissionais começaram no ensino médio quando tive a oportunidade de participar dos torneios nacionais de robótica nos anos de 2019 e 2020, consequentemente tive meu primeiro contato com a programação e me aprofundei na área de design, marketing e tecnologia. Hoje sou estudante de Sistemas para Internet e estou muito satisfeito com meu curso. Lido muito bem com tarefas que envolvem comunicação e trabalho em equipe. Adoro buscar e aprender novas tecnologias e ampliar meus conhecimento, entre elas... Desenvolvimento Web, inovação, design, suporte de computadores e sistemas, marketing e engenharia de software. 
 
+Hello, Call me João Henrique and my professional experiences gained in high school when I had the opportunity to participate in national robotics tournaments in 2019 and 2020, consequently I had my first contact with programming and delved deeper into the area of ​​design, marketing and technology. Today I am a student of Internet Systems and I am very satisfied with my course. I deal very well with tasks that involve communication and teamwork. I love seeking out and learning new technologies and expanding my knowledge, including... Web development, innovation, design, computer and systems support, marketing and software engineering.
+
 ## Contacts: 
 <a href = "mailto:jhlucena2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href='https://www.linkedin.com/in/joão-henrique-m-de-lucena-1a834b207/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
