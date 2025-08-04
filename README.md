@@ -33,7 +33,6 @@ My software development skills include: JavaScript, TypeScript, NodeJS, React, R
   <img  align="center" alt"typescript "height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" />
   <img  align="center" alt"react "height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img  align="center" alt"react "height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg" />
   <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" /> 
   <img align="center"height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma">  
   <img align="center" height= "30"  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="ps"> 
