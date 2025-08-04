@@ -2,7 +2,11 @@
 
 ## Conheça meu portfólio: https://ux-joaohenrique.vercel.app
 
-PT/BR: Olá, Me chamo João Henrique e minhas experiências profissionais começaram no ensino médio quando tive a oportunidade de participar dos torneios nacionais de robótica nos anos de 2019 e 2020, consequentemente tive meu primeiro contato com a programação e me aprofundei na área de design, marketing e tecnologia. Hoje sou estudante de Sistemas para Internet e estou muito satisfeito com meu curso. Lido muito bem com tarefas que envolvem comunicação e trabalho em equipe. Adoro buscar e aprender novas tecnologias e ampliar meus conhecimento, entre elas... Desenvolvimento Web, inovação, design, suporte de computadores e sistemas, marketing e engenharia de software. 
+Desenvolvedor de software com mais de 2 anos de experiência em Desenvolvimento Web, abordando diversos projetos incluindo a publicação de um jogo digital. Possuo expertise em NodeJS, React e Phaser.io com experiência em melhores práticas, incluindo arquitetura limpa, padrões de design e testes. Atualmente atuo como Analista Desenvolvedor na Lifters Tecnologia em um projeto Client-side Rendering baseada em microsserviços e orientação a eventos utilizando Java + React. 
+
+Acredito que cada linha de código pode gerar impacto real!
+
+Minhas habilidades em desenvolvimento de software incluem: JavaScript, TypeScript, NodeJS, React, React Native, Arquiteturas (CSR, MVC, Clean Architecture), Modularização, Conteinerização, Testes Unitários, UX Research e Prototipação. Além das habilidades em desenvolvimento web, tenho experiência em desenvolvimento de jogos, UX/UI Design e diversas tecnologias como HTML + CSS, Java, Spring, Docker, Linux, SQL, AWS, Figma e Design System.
 
 EN: Hello, Call me João Henrique and my professional experiences gained in high school when I had the opportunity to participate in national robotics tournaments in 2019 and 2020, consequently I had my first contact with programming and delved deeper into the area of ​​design, marketing and technology. Today I am a student of Internet Systems and I am very satisfied with my course. I deal very well with tasks that involve communication and teamwork. I love seeking out and learning new technologies and expanding my knowledge, including... Web development, innovation, design, computer and systems support, marketing and software engineering.
 
