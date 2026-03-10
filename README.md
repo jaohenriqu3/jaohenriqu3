@@ -1,7 +1,5 @@
 # Hello World!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## Conheça meu portfólio: https://ux-joaohenrique.vercel.app
-
 Desenvolvedor de software com mais de 3 anos de experiência em Desenvolvimento Web, abordando diversos projetos incluindo a publicação de um jogo digital. Possuo expertise em NodeJS, React e Phaser.io com experiência em melhores práticas, incluindo arquitetura limpa, padrões de design e testes. Atualmente atuo como Analista Desenvolvedor na Lifters Tecnologia em um projeto Client-side Rendering baseada em microsserviços e orientação a eventos utilizando Java + React. 
 
 Acredito que cada linha de código pode gerar impacto real!
