@@ -1,10 +1,10 @@
 # Hello World!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-Desenvolvedor de software com mais de 3 anos de experiência em Desenvolvimento Web, abordando diversos projetos incluindo a publicação de um jogo digital. Possuo expertise em NodeJS, React e Phaser.io com experiência em melhores práticas, incluindo arquitetura limpa, padrões de design e testes. Atualmente atuo como Analista Desenvolvedor na Lifters Tecnologia em um projeto Client-side Rendering baseada em microsserviços e orientação a eventos utilizando Java + React. 
+Desenvolvedor de software com mais de 3 anos de experiência em Desenvolvimento de software, abordando diversos projetos incluindo a publicação de um jogo digital. Possuo expertise em React, React Native e NextJS, com experiência em melhores práticas, sendo elas: arquitetura limpa, padrões de design e testes. Atualmente atuo como Desenvolvedor Front-end na Lifters Tecnologia em diversas abordagens de projetos diferentes, incluindo plataformas web e soluções nativas. 
 
 Acredito que cada linha de código pode gerar impacto real!
 
-Minhas habilidades em desenvolvimento de software incluem: JavaScript, TypeScript, NodeJS, React, React Native, Arquiteturas (CSR, MVC, Clean Architecture), Modularização, Conteinerização, Testes Unitários, UX Research e Prototipação. Além das habilidades em desenvolvimento web, tenho experiência em desenvolvimento de jogos, UX/UI Design e diversas tecnologias como HTML + CSS, Java, Spring, Docker, Linux, SQL, AWS, Figma e Design System.
+Minhas habilidades em desenvolvimento de software incluem: JavaScript, TypeScript, NodeJS, NextJS, React, React Native, Arquiteturas (CSR, MVC, Clean Architecture), Modularização, Conteinerização, Testes Unitários, Debugging, UX Research e Prototipação. Além das habilidades em desenvolvimento de software, tenho experiência em desenvolvimento de jogos, Design e diversas tecnologias como HTML, CSS, SCSS, Java, Spring, Docker, Linux, SQL, PostgreSQL, Supabase, AWS, Cloudflare, CircleCI, Git/Github Figma e Design System.
 
 ## Contacts: 
 <a href = "mailto:devjoaohenriquejs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
