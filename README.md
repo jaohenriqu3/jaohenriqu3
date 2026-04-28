@@ -1,6 +1,6 @@
 # Hello World!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-Desenvolvedor de software com mais de 3 anos de experiência em Desenvolvimento de software, abordando diversos projetos incluindo a publicação de um jogo digital. Possuo expertise em React, React Native e NextJS, com experiência em melhores práticas, sendo elas: arquitetura limpa, padrões de design e testes. Atualmente atuo como Desenvolvedor Front-end na Lifters Tecnologia em diversas abordagens de projetos diferentes, incluindo plataformas web e soluções nativas. 
+Desenvolvedor de software com mais de 3 anos de experiência em Desenvolvimento de Software, abordando diversos projetos incluindo a publicação de um jogo digital. Possuo expertise em React, React Native e NextJS, com experiência em melhores práticas, sendo elas: arquitetura limpa, padrões de design e testes. Atualmente atuo como Desenvolvedor Front-end na Lifters Tecnologia em diversas abordagens de projetos diferentes, incluindo plataformas web e soluções nativas. 
 
 Acredito que cada linha de código pode gerar impacto real!
 
