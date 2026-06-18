@@ -10,15 +10,10 @@ Tenho experiência com React, React Native, Node.js, Next.js, Nest.js, PostgreSQ
 
 Meu interesse atual está em:
  - Engenharia de Produto 
-
  - Arquitetura de Software 
-
  - Mobile 
-
  - Cloud 
-
  - Sistemas distribuídos 
-
  - Startups e SaaS
 
 ## Contacts: 
