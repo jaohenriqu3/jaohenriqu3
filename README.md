@@ -2,7 +2,7 @@
 
 Engenheiro de software com mais de 3 anos de experiência focado na construção de produtos digitais escaláveis para sistemas web e mobile.
 
-Atualmente atuo na Lifters Tecnologia desenvolvendo aplicações para diferentes segmentos de negócio, participando do ciclo completo desenvolvimento, da arquitetura à entrega de soluções em produção.
+Atualmente atuo na Lifters Tecnologia desenvolvendo aplicações para diferentes segmentos de negócio, participando do ciclo completo de desenvolvimento, da arquitetura à entrega de soluções em produção.
 
 Além da atuação profissional, sou fundador da FinMove, uma plataforma SaaS onde gerencio o desenvolvimento dos produto, arquitetura dos sistemas, infraestrutura cloud e aplicações mobile e web.
 
